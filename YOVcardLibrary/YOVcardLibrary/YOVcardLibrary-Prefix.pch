@@ -1,0 +1,12 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
+
+#define IS_FIX_CATEGORY_BUG(name) @interface IS_FIX_CATEGORY_BUG_##name @end \
+@implementation IS_FIX_CATEGORY_BUG_##name @end

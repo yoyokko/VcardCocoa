@@ -1,0 +1,307 @@
+TYOVcardLibrary
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos/YOVcardLibrary.framework/Versions/A/Resources/Info.plist /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/YOVcardLibrary/YOVcardLibrary-Info.plist
+cProcessPCH /var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-gmlxbmkpqafjrwdotrquzmkksizf/YOVcardLibrary-Prefix.pch.pch YOVcardLibrary/YOVcardLibrary-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-bgreeohkbicvfpaymjwomtgfbsbn/YOVcardLibrary-Prefix.pch.pch YOVcardLibrary/YOVcardLibrary-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/ISVcard3_0Generator.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard3_0Generator.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/YOVcard3_0Parser.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcard3_0Parser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/YOVcardParser.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcardParser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/NSData+EncodeData.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/NSData+EncodeData.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/ISVcard2_1QRCodeGenerator.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard2_1QRCodeGenerator.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c000000005267DB1F000000000000036B
+t1382538015
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005267DB2000000000000001A0
+t1382538016
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c000000005267DB700000000000000AC9
+t1382538096
+s2761
+
+N/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard2_1QRCodeGenerator.m
+c00000000527F48A5000000000000051E
+t1384073381
+s1310
+
+N/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard3_0Generator.m
+c00000000527F4B130000000000000198
+t1384074003
+s408
+
+N/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/NSData+EncodeData.m
+c00000000527F47F4000000000000121A
+t1384073204
+s4634
+
+N/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcard3_0Parser.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcardParser.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/YOVcardLibrary/YOVcardLibrary-Info.plist
+c00000000527F46540000000000000353
+t1384072788
+s851
+
+N/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/YOVcardLibrary/YOVcardLibrary-Prefix.pch
+c00000000527F46F50000000000000135
+t1384072949
+s309
+
+N/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos/YOVcardLibrary.framework/Versions/A/Resources/Info.plist
+t2
+s0
+
+N/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/ISVcard2_1QRCodeGenerator.o
+t2
+s0
+
+N/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/ISVcard3_0Generator.o
+t2
+s0
+
+N/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/NSData+EncodeData.o
+t2
+s0
+
+N/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/YOVcard3_0Parser.o
+t2
+s0
+
+N/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/YOVcardParser.o
+t2
+s0
+
+N/var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-bgreeohkbicvfpaymjwomtgfbsbn/YOVcardLibrary-Prefix.pch.pch
+t2
+s0
+
+N/var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-gmlxbmkpqafjrwdotrquzmkksizf/YOVcardLibrary-Prefix.pch.pch
+t1384074117
+s79076
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3aeb8b04832fb841^8d60a704832fb841^---0#1#1#--18"Check dependencies36"E533C170-3615-4911-9199-6AC5A6109BF4-
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/ISVcard2_1Generator.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard2_1Generator.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/ISVcard2_1QRCodeGenerator.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard2_1QRCodeGenerator.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405766917.465403
+e405766917.530278
+r1
+xCompileC
+xbuild/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/ISVcard2_1QRCodeGenerator.o
+x/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard2_1QRCodeGenerator.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard2_1QRCodeGenerator.m
+d/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard2_1QRCodeGenerator.h
+d/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcardX_XGeneratorBase.h
+d/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcardGeneratorProtocol.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard2_1QRCodeGenerator.m227"CompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/ISVcard2_1QRCodeGenerator.o Classes/ISVcard2_1QRCodeGenerator.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerdd5d7705832fb841^27c18705832fb841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard2_1QRCodeGenerator.m0000000000000000^3829"CompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/ISVcard2_1QRCodeGenerator.o Classes/ISVcard2_1QRCodeGenerator.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/texbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-generated-files.hmap -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-own-target-headers.hmap -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-all-target-headers.hmap -iquote /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-project-headers.hmap -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/DerivedSources/armv7 -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/DerivedSources -F/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos -include /var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-gmlxbmkpqafjrwdotrquzmkksizf/YOVcardLibrary-Prefix.pch -MMD -MT dependencies -MF /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/ISVcard2_1QRCodeGenerator.d --serialize-diagnostics /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/ISVcard2_1QRCodeGenerator.dia -c /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard2_1QRCodeGenerator.m -o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/ISVcard2_1QRCodeGenerator.o36"EE56C64E-8ADF-4C68-9AC3-40ABC0F4908E-
+bC96E75C8-2C81-4CFB-BD68-33C831BBC5F1
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/ISVcard3_0Generator.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard3_0Generator.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405766917.390723
+e405766917.517072
+r1
+xCompileC
+xbuild/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/ISVcard3_0Generator.o
+x/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard3_0Generator.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard3_0Generator.m
+d/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard3_0Generator.h
+d/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcardX_XGeneratorBase.h
+d/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcardGeneratorProtocol.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard3_0Generator.m215"CompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/ISVcard3_0Generator.o Classes/ISVcard3_0Generator.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerbe2d6405832fb841^41658405832fb841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard3_0Generator.m0000000000000000^3793"CompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/ISVcard3_0Generator.o Classes/ISVcard3_0Generator.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/texbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-generated-files.hmap -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-own-target-headers.hmap -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-all-target-headers.hmap -iquote /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-project-headers.hmap -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/DerivedSources/armv7 -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/DerivedSources -F/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos -include /var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-gmlxbmkpqafjrwdotrquzmkksizf/YOVcardLibrary-Prefix.pch -MMD -MT dependencies -MF /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/ISVcard3_0Generator.d --serialize-diagnostics /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/ISVcard3_0Generator.dia -c /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard3_0Generator.m -o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/ISVcard3_0Generator.o36"FF09AD93-7086-4732-8673-E8B801100EFD-
+bC96E75C8-2C81-4CFB-BD68-33C831BBC5F1
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/ISVcardGenerator.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcardGenerator.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/ISVcardX_XGeneratorBase.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcardX_XGeneratorBase.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/NSData+EncodeData.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/NSData+EncodeData.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405766917.393774
+e405766917.552912
+r1
+xCompileC
+xbuild/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/NSData+EncodeData.o
+x/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/NSData+EncodeData.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/NSData+EncodeData.m
+d/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/NSData+EncodeData.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/NSData+EncodeData.m211"CompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/NSData+EncodeData.o Classes/NSData+EncodeData.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilera0fd6405832fb841^198c8d05832fb841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/NSData+EncodeData.m0000000000000000^3781"CompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/NSData+EncodeData.o Classes/NSData+EncodeData.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/texbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-generated-files.hmap -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-own-target-headers.hmap -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-all-target-headers.hmap -iquote /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-project-headers.hmap -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/DerivedSources/armv7 -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/DerivedSources -F/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos -include /var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-gmlxbmkpqafjrwdotrquzmkksizf/YOVcardLibrary-Prefix.pch -MMD -MT dependencies -MF /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/NSData+EncodeData.d --serialize-diagnostics /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/NSData+EncodeData.dia -c /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/NSData+EncodeData.m -o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/NSData+EncodeData.o36"3551B125-1CBD-4ACA-BF00-544A916EC765-
+bC96E75C8-2C81-4CFB-BD68-33C831BBC5F1
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/NSString+QuotedPrintableEncodeDecode.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/NSString+QuotedPrintableEncodeDecode.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/YOVcard2_1Parser.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcard2_1Parser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/YOVcard3_0Parser.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcard3_0Parser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405766917.391137
+e405766917.407579
+r0
+xCompileC
+xbuild/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/YOVcard3_0Parser.o
+x/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcard3_0Parser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: error: no such file or directory: '/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcard3_0Parser.m'
+oclang: error: no input files
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcard3_0Parser.m209"CompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/YOVcard3_0Parser.o Classes/YOVcard3_0Parser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere7566405832fb841^73846805832fb841^-272"clang: error: no such file or directory: '/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcard3_0Parser.m'clang: error: no input filesCommand /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@124"Command /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-405766917#18446744073709551615#0#-2#--20"Apple LLVM 5.0 Error--0#0#1#-19%DVTDocumentLocation3@81"file:///Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcard3_0Parser.m0034682eddffdf42^3775"CompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/YOVcard3_0Parser.o Classes/YOVcard3_0Parser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/texbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-generated-files.hmap -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-own-target-headers.hmap -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-all-target-headers.hmap -iquote /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-project-headers.hmap -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/DerivedSources/armv7 -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/DerivedSources -F/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos -include /var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-gmlxbmkpqafjrwdotrquzmkksizf/YOVcardLibrary-Prefix.pch -MMD -MT dependencies -MF /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/YOVcard3_0Parser.d --serialize-diagnostics /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/YOVcard3_0Parser.dia -c /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcard3_0Parser.m -o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/YOVcard3_0Parser.o36"6E38D453-6FB6-4F8F-9B5C-54F51FB7144E-
+bC96E75C8-2C81-4CFB-BD68-33C831BBC5F1
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/YOVcardParser.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcardParser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405766917.391828
+e405766917.408469
+r0
+xCompileC
+xbuild/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/YOVcardParser.o
+x/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcardParser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: error: no such file or directory: '/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcardParser.m'
+oclang: error: no input files
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcardParser.m203"CompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/YOVcardParser.o Classes/YOVcardParser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler3d816405832fb841^82c66805832fb841^-269"clang: error: no such file or directory: '/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcardParser.m'clang: error: no input filesCommand /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@124"Command /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-405766917#18446744073709551615#0#-2#--20"Apple LLVM 5.0 Error--0#0#1#-19%DVTDocumentLocation3@78"file:///Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcardParser.m0034682eddffdf42^3757"CompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/YOVcardParser.o Classes/YOVcardParser.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/texbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-generated-files.hmap -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-own-target-headers.hmap -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-all-target-headers.hmap -iquote /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-project-headers.hmap -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/DerivedSources/armv7 -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/DerivedSources -F/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos -include /var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-gmlxbmkpqafjrwdotrquzmkksizf/YOVcardLibrary-Prefix.pch -MMD -MT dependencies -MF /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/YOVcardParser.d --serialize-diagnostics /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/YOVcardParser.dia -c /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcardParser.m -o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/YOVcardParser.o36"71DAF340-C435-4446-A360-92C6F898E8BF-
+bC96E75C8-2C81-4CFB-BD68-33C831BBC5F1
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/YOVcardX_XParserBase.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcardX_XParserBase.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7s/ISVcard2_1Generator.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard2_1Generator.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7s/ISVcard2_1QRCodeGenerator.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard2_1QRCodeGenerator.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7s/ISVcard3_0Generator.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcard3_0Generator.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7s/ISVcardGenerator.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcardGenerator.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7s/ISVcardX_XGeneratorBase.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/ISVcardX_XGeneratorBase.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7s/NSData+EncodeData.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/NSData+EncodeData.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7s/NSString+QuotedPrintableEncodeDecode.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/NSString+QuotedPrintableEncodeDecode.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7s/YOVcard2_1Parser.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcard2_1Parser.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7s/YOVcard3_0Parser.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcard3_0Parser.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7s/YOVcardParser.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcardParser.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7s/YOVcardX_XParserBase.o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/Classes/YOVcardX_XParserBase.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCopyPlistFile /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos/YOVcardLibrary.framework/Versions/A/Resources/VCardLabel.plist Classes/VCardLabel.plist
+r0
+
+CCopyStringsFile /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos/YOVcardLibrary.framework/Versions/A/Resources/en.lproj/InfoPlist.strings YOVcardLibrary/en.lproj/InfoPlist.strings
+r0
+
+CCpHeader Classes/ISVcardGenerator.h build/Release-iphoneos/YOVcardLibrary.framework/Versions/A/Headers/ISVcardGenerator.h
+r0
+
+CCpHeader Classes/ISVcardGeneratorProtocol.h build/Release-iphoneos/YOVcardLibrary.framework/Versions/A/Headers/ISVcardGeneratorProtocol.h
+r0
+
+CCpHeader Classes/YOVcardParser.h build/Release-iphoneos/YOVcardLibrary.framework/Versions/A/Headers/YOVcardParser.h
+r0
+
+CCpHeader Classes/YOVcardParserDelegate.h build/Release-iphoneos/YOVcardLibrary.framework/Versions/A/Headers/YOVcardParserDelegate.h
+r0
+
+CCreateUniversalBinary /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos/YOVcardLibrary.framework/Versions/A/YOVcardLibrary normal armv7\ armv7s
+r0
+
+CLibtool /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7/YOVcardLibrary normal armv7
+r0
+
+CLibtool /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Objects-normal/armv7s/YOVcardLibrary normal armv7s
+r0
+
+CPhaseScriptExecution Run\ Script /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/Script-899BD19A182F7DD400F7162C.sh
+r0
+
+CProcessInfoPlistFile /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos/YOVcardLibrary.framework/Versions/A/Resources/Info.plist /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/YOVcardLibrary/YOVcardLibrary-Info.plist
+s405766916.658479
+e405766916.661447
+r1
+xProcessInfoPlistFile
+x/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos/YOVcardLibrary.framework/Versions/A/Resources/Info.plist
+x/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/YOVcardLibrary/YOVcardLibrary-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Process /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/YOVcardLibrary/YOVcardLibrary-Info.plist141"ProcessInfoPlistFile build/Release-iphoneos/YOVcardLibrary.framework/Versions/A/Resources/Info.plist YOVcardLibrary/YOVcardLibrary-Info.plist2fc2a804832fb841^8255a904832fb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/YOVcardLibrary/YOVcardLibrary-Info.plist0000000000000000^716"ProcessInfoPlistFile build/Release-iphoneos/YOVcardLibrary.framework/Versions/A/Resources/Info.plist YOVcardLibrary/YOVcardLibrary-Info.plist    cd /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/texbin"    builtin-infoPlistUtility /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/YOVcardLibrary/YOVcardLibrary-Info.plist -expandbuildsettings -format binary -platform iphoneos -o /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos/YOVcardLibrary.framework/Versions/A/Resources/Info.plist36"12594392-FED3-438A-B43D-C36E0F7D44EB-
+bC96E75C8-2C81-4CFB-BD68-33C831BBC5F1
+
+CProcessPCH /var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-bgreeohkbicvfpaymjwomtgfbsbn/YOVcardLibrary-Prefix.pch.pch YOVcardLibrary/YOVcardLibrary-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405766916.664090
+e405766917.376602
+r1
+xProcessPCH
+x/var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-bgreeohkbicvfpaymjwomtgfbsbn/YOVcardLibrary-Prefix.pch.pch
+xYOVcardLibrary/YOVcardLibrary-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/YOVcardLibrary/YOVcardLibrary-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile YOVcardLibrary/YOVcardLibrary-Prefix.pch320"ProcessPCH /var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-bgreeohkbicvfpaymjwomtgfbsbn/YOVcardLibrary-Prefix.pch.pch YOVcardLibrary/YOVcardLibrary-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler4c36aa04832fb841^40696005832fb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/YOVcardLibrary/YOVcardLibrary-Prefix.pch0000000000000000^3839"ProcessPCH /var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-bgreeohkbicvfpaymjwomtgfbsbn/YOVcardLibrary-Prefix.pch.pch YOVcardLibrary/YOVcardLibrary-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/texbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-generated-files.hmap -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-own-target-headers.hmap -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-all-target-headers.hmap -iquote /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-project-headers.hmap -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/DerivedSources/armv7s -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/DerivedSources -F/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos --serialize-diagnostics /var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-bgreeohkbicvfpaymjwomtgfbsbn/YOVcardLibrary-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-bgreeohkbicvfpaymjwomtgfbsbn/YOVcardLibrary-Prefix.pch.d -c /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/YOVcardLibrary/YOVcardLibrary-Prefix.pch -o /var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-bgreeohkbicvfpaymjwomtgfbsbn/YOVcardLibrary-Prefix.pch.pch36"899054BC-D64A-4F3C-8BED-13BC357D189E-
+bC96E75C8-2C81-4CFB-BD68-33C831BBC5F1
+
+CProcessPCH /var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-gmlxbmkpqafjrwdotrquzmkksizf/YOVcardLibrary-Prefix.pch.pch YOVcardLibrary/YOVcardLibrary-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405766916.663060
+e405766917.389420
+r1
+xProcessPCH
+x/var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-gmlxbmkpqafjrwdotrquzmkksizf/YOVcardLibrary-Prefix.pch.pch
+xYOVcardLibrary/YOVcardLibrary-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/YOVcardLibrary/YOVcardLibrary-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile YOVcardLibrary/YOVcardLibrary-Prefix.pch319"ProcessPCH /var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-gmlxbmkpqafjrwdotrquzmkksizf/YOVcardLibrary-Prefix.pch.pch YOVcardLibrary/YOVcardLibrary-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerf359aa04832fb841^4fb06305832fb841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/YOVcardLibrary/YOVcardLibrary-Prefix.pch0000000000000000^3836"ProcessPCH /var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-gmlxbmkpqafjrwdotrquzmkksizf/YOVcardLibrary-Prefix.pch.pch YOVcardLibrary/YOVcardLibrary-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/texbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-generated-files.hmap -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-own-target-headers.hmap -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-all-target-headers.hmap -iquote /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/YOVcardLibrary-project-headers.hmap -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/DerivedSources/armv7 -I/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/YOVcardLibrary.build/Release-iphoneos/YOVcardLibrary.build/DerivedSources -F/Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos --serialize-diagnostics /var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-gmlxbmkpqafjrwdotrquzmkksizf/YOVcardLibrary-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-gmlxbmkpqafjrwdotrquzmkksizf/YOVcardLibrary-Prefix.pch.d -c /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/YOVcardLibrary/YOVcardLibrary-Prefix.pch -o /var/folders/5s/r1nrs6zs129_jn1k2rpmd0dw0000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/YOVcardLibrary-Prefix-gmlxbmkpqafjrwdotrquzmkksizf/YOVcardLibrary-Prefix.pch.pch36"47037D16-FD2E-421C-B67F-745A4D5C9A77-
+bC96E75C8-2C81-4CFB-BD68-33C831BBC5F1
+
+CTouch /Users/yoyokko/GitHub/VcardCocoa/YOVcardLibrary/build/Release-iphoneos/YOVcardLibrary.framework
+r0
+
