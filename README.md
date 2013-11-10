@@ -4,6 +4,8 @@ VcardCocoa
 A vcard parse &amp; generate library for Mac &amp; iOS.
 
 
+To compile this project, you need to install [iOS-Universal-Framework](https://github.com/kstenerud/iOS-Universal-Framework) first. (Real Framework Type)
+
 ### Usage of Parser
 
     YOVcardParser *parser = [[YOVcardParser alloc] init];
