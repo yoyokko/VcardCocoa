@@ -21,7 +21,7 @@ To compile this project, you need to install [iOS-Universal-Framework](https://g
     NSString *vcardString = [xxx xxx];
     [parser setVCardRepresentation:vcardString];
     NSRange range = [parser valueRangeForName:@"N"];
-    vcardString = [vcardString stringByReplacingStringAtRange:range withString:@"BlaBlaBla";]
+    vcardString = [vcardString stringByReplacingStringAtRange:range withString:@"BlaBlaBla"];
     [parser setVCardRepresentation:vcardString];
     NSString *name = [parser valueForName:@"N"];
 
